@@ -9,6 +9,7 @@ body{
     font-optical-sizing: auto;
     font-weight: 350;
     font-style: normal;
+    margin: 8px 0;
 }
 h1, h2, h3{
     line-height: 1.2;
