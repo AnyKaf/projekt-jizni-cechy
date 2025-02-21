@@ -28,6 +28,7 @@ h2{
 h3{
     font-size: 24px;
     color: #d4a373;
+    margin-top: 48px;
 }
 .autor{
     text-align: center;
@@ -41,7 +42,7 @@ h3{
 article{
     background-color: #ffffff;
     width: 900px;
-    border-radius: 5px;
+    border-radius: 12px;
     margin-left: auto;
     margin-right: auto;
     padding: 30px 50px;
@@ -53,6 +54,7 @@ article{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 20px;
 }
 
 .CeskyKrumlov img{
