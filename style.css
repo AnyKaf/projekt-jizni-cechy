@@ -53,8 +53,7 @@ article{
     width: 300px;
     border-radius: 50%;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-inline: auto;
     margin-top: 20px;
 }
 
@@ -73,5 +72,5 @@ article{
 .nature img{
     width: 100%;
     margin: 0; /*otázka:
-    když je v zadání aby poslední fotka měla okraj 20px nahoře a dole, můžu nechat margin na 0 když vím že <p> má defaultní odsaení 20px, nebo musím "zrušit" odsazení paragrafu a nastavit u obrázku margin 20px*/
+    když je v zadání aby poslední fotka měla okraj 20px nahoře a dole, můžu nechat margin na 0 když vím že <p> má odsaení 20px, nebo musím "zrušit" odsazení paragrafu a nastavit u obrázku margin 20px*/
 }
